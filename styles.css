@@ -1,0 +1,20 @@
+*{
+    font-family: sans-serif;
+    background-color: #aeffae;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+li {
+    margin: 12px;
+}
